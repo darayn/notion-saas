@@ -1,0 +1,27 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1712413260854,
+      "tag": "0000_cultured_karma",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1712413723394,
+      "tag": "0001_glorious_bulldozer",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1712486941130,
+      "tag": "0002_stiff_toad_men",
+      "breakpoints": true
+    }
+  ]
+}
